@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\bin\Debug\CircumferenceRomyIIC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\bin\Debug\CircumferenceRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\bin\Debug\CircumferenceRomyIIC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\obj\Debug\CircumferenceRomyIIC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\obj\Debug\CircumferenceRomyIIC.frmCircumference.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\obj\Debug\CircumferenceRomyIIC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\obj\Debug\CircumferenceRomyIIC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\obj\Debug\CircumferenceRomyIIC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Chu II, Romy (s243854)\Unit 1 (Problem Solving)\CircumferenceRomyIIC\CircumferenceRomyIIC\obj\Debug\CircumferenceRomyIIC.pdb

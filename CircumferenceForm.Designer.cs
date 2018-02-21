@@ -33,6 +33,10 @@
             this.btnCalculateRadius = new System.Windows.Forms.Button();
             this.txtRadiusInput = new System.Windows.Forms.TextBox();
             this.lblCircumference = new System.Windows.Forms.Label();
+            this.mnuFile = new System.Windows.Forms.MenuStrip();
+            this.mniExit = new System.Windows.Forms.ToolStripMenuItem();
+            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mnuFile.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblRadiusText
@@ -63,6 +67,7 @@
             this.btnCalculateRadius.TabIndex = 2;
             this.btnCalculateRadius.Text = "Calculate";
             this.btnCalculateRadius.UseVisualStyleBackColor = true;
+            this.btnCalculateRadius.Click += new System.EventHandler(this.btnCalculateRadius_Click);
             // 
             // txtRadiusInput
             // 
@@ -81,6 +86,31 @@
             this.lblCircumference.TabIndex = 4;
             this.lblCircumference.Text = "0";
             // 
+            // mnuFile
+            // 
+            this.mnuFile.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mniExit});
+            this.mnuFile.Location = new System.Drawing.Point(0, 0);
+            this.mnuFile.Name = "mnuFile";
+            this.mnuFile.Size = new System.Drawing.Size(447, 24);
+            this.mnuFile.TabIndex = 5;
+            this.mnuFile.Text = "menuStrip1";
+            // 
+            // mniExit
+            // 
+            this.mniExit.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.exitToolStripMenuItem});
+            this.mniExit.Name = "mniExit";
+            this.mniExit.Size = new System.Drawing.Size(37, 20);
+            this.mniExit.Text = "File";
+            // 
+            // exitToolStripMenuItem
+            // 
+            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Text = "Exit";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
+            // 
             // frmCircumference
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -91,8 +121,12 @@
             this.Controls.Add(this.btnCalculateRadius);
             this.Controls.Add(this.lblCircumferenceStatement);
             this.Controls.Add(this.lblRadiusText);
+            this.Controls.Add(this.mnuFile);
+            this.MainMenuStrip = this.mnuFile;
             this.Name = "frmCircumference";
             this.Text = "Circumference by RomyIIC";
+            this.mnuFile.ResumeLayout(false);
+            this.mnuFile.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -105,6 +139,9 @@
         private System.Windows.Forms.Button btnCalculateRadius;
         private System.Windows.Forms.TextBox txtRadiusInput;
         private System.Windows.Forms.Label lblCircumference;
+        private System.Windows.Forms.MenuStrip mnuFile;
+        private System.Windows.Forms.ToolStripMenuItem mniExit;
+        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
     }
 }
 

@@ -27,17 +27,18 @@ namespace CircumferenceRomyIIC
         private void btnCalculateRadius_Click(object sender, EventArgs e)
         {
             //Declaring that Pi is a constant
-            const Double pi = 3.14159;
+            const Double PI = 3.14159;
             
             //Creating a variable for radius
             Double radiusinput = Double.Parse(txtRadiusInput.Text);
 
             //Calculating circumference
-            lblCircumference.Text = Convert.ToString(pi * (radiusinput * 2)) + "cm";
+            lblCircumference.Text = Convert.ToString(PI * (radiusinput * 2)) + "cm";
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //Closes the Program
             this.Close();
         }
     }
